@@ -9,7 +9,7 @@ Saya **Husni Marwan** Physical AI & Robotics Designer dengan minat besar di **Co
 Suka membangun hal yang mempertemukan persepsi mesin dengan dunia nyata: robotika, deteksi
 objek, sampai tool vision berbasis web yang gampang dipakai siapa saja.
 
-- 🔭 Sedang mengerjakan: **machine-vision** — web app deteksi objek (gambar, video, kamera, URL) dengan YOLO + Flask
+- 🔭 Sedang mengerjakan: **machine-vision** web app deteksi objek (gambar, video, kamera, URL) dengan YOLO + Flask
 - 🧠 Fokus: object detection, robot perception, real-time inference
 - 🛠️ Stack: Python · PyTorch · OpenCV · Ultralytics YOLO · Flask · JavaScript
 - 🌐 Website: [husnimarwan.com](https://husnimarwan.com)
