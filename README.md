@@ -5,7 +5,7 @@
 
 ### Hi there 👋
 
-Saya **Husni Marwan** — Physical AI & Robotics Designer dengan minat besar di **Computer Vision**.
+Saya **Husni Marwan** Physical AI & Robotics Designer dengan minat besar di **Computer Vision**.
 Suka membangun hal yang mempertemukan persepsi mesin dengan dunia nyata: robotika, deteksi
 objek, sampai tool vision berbasis web yang gampang dipakai siapa saja.
 
